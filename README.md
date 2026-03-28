@@ -16,7 +16,8 @@ A real-time AI-based system that detects driver drowsiness using Computer Vision
 
 ## 🖥️ Demo
 
-![Demo](assets/demo.png)
+![Demo](assets/demo1.png)
+![Demo](assets/demo2.png)
 
 ---
 
